@@ -8,7 +8,6 @@ const MapWithMarkers = dynamic(() => import('../components/Map'), {
 const HomePage = () => {
   return (
     <div>
-      <h1>Indian Cities Map with Markers</h1>
       <MapWithMarkers />
     </div>
   );
